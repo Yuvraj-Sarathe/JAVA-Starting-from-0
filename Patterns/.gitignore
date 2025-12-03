@@ -1,1 +1,8 @@
+# Ignore compiled java files
 *.class
+
+# Ignore packaged builds
+*.jar
+*.exe
+HangmanGame/
+*.zip
