@@ -25,9 +25,5 @@ public class ArrayListExample {
         System.out.println("The list is empty: " + fruits.isEmpty());
         System.out.println("The list contains Apple: " + fruits.contains("Apple"));
         System.out.println("The list contains Banana: " + fruits.contains("Banana"));
-
-
-        Arrr
-
     }
 }
